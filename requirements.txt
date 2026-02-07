@@ -1,0 +1,18 @@
+# Core dependencies
+numpy
+torch
+gymnasium
+mujoco
+matplotlib
+tqdm
+
+# Config management (like MILA HW1)
+hydra-core
+omegaconf
+
+# Logging
+wandb
+tensorboard
+
+# Testing
+pytest
