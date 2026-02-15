@@ -63,9 +63,10 @@ src/
 
 ## Team
 
-**Project Leads:** Anas & Quan  
-**Simulation:** Pierre  
-**Coding & Model Fine-tuning:** Josh
+**Project Leads:** Anas & Quan
+**Simulation:** Pierre, Alex
+**Coding & Model Fine-tuning:** Josh, Ariel, Cassandre
+**Technical Advisor — ML** Cassandre
 
 ---
 
