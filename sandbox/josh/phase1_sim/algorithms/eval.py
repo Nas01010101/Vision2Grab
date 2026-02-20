@@ -49,6 +49,7 @@ def evaluate_policy(
     
     for ep in range(num_episodes):
         obs, info = env.reset()
+        print(obs) # See the starting observation
         episode_return = 0.0
         episode_length = 0
         
