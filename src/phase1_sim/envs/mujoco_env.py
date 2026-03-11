@@ -106,4 +106,5 @@ MUJOCO_ENVS = {
     "humanoid": "Humanoid-v4",
     "pendulum": "InvertedPendulum-v4",
     "double_pendulum": "InvertedDoublePendulum-v4",
+    "rx150": "RX150-v0",
 }
